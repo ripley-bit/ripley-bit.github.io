@@ -72,7 +72,7 @@ Header #branding h1{
 }
 Header nav{
   float:right;
-  margin-top: -3%;
+  margin-top: -40px;
 
 }
 header .hightlight, header .current a{
