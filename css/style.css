@@ -92,7 +92,7 @@ header.sticky {
 #showcase{
   min-height:400px;
   width:100%;
-  background:url('../img/cnbanner.png') no-repeat 0 0px;
+  background:url('../img/cnbanner.png'class="center") no-repeat 0 0px;
   text-align:center;
   color:#ffffff;
   transition: padding 300ms ease;
